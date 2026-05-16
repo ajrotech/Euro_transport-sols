@@ -1,0 +1,14 @@
+nohup: ignoring input
+127.0.0.1 - - [16/May/2026 11:04:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2026 11:04:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2026 11:04:22] "GET /css/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [16/May/2026 11:04:22] "GET /css/premium.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2026 11:04:22] "GET /js/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/May/2026 11:04:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2026 11:04:29] "GET /css/styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [16/May/2026 11:04:29] "GET /css/premium.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2026 11:04:29] "GET /js/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/May/2026 11:17:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/May/2026 11:17:17] "GET /css/premium.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2026 11:18:19] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [16/May/2026 11:18:19] "GET /css/premium.css HTTP/1.1" 200 -
